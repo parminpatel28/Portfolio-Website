@@ -60,6 +60,9 @@ h6 {
   pointer-events: none;
 }
 
+.parmin{
+  background-color: blue;
+}
 .scroll-to-top {
   position: fixed;
   right: 15px;
