@@ -62,3 +62,16 @@ var onMapClickHandler = function(event) {
 }
 // Enable map zooming with mouse scroll when the user clicks the map
 $('.map').on('click', onMapClickHandler);
+/*
+function void password(){
+  Arraylist<Integer> password = new ArrayList<Integer>();
+  for(int i = 1; i< 10;i++){
+    if(i % 2 ==0){
+      array.add(i);
+    }
+
+  }
+  return password;
+
+}
+*/
